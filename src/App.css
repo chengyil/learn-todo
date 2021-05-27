@@ -1,0 +1,26 @@
+.todo-item-title {
+  font-size: 1.5rem;
+}
+.todo-item-check {
+  margin-right: 16px;
+}
+
+.badge-todo-item {
+  background-color: darkcyan;
+}
+.badge-primary {
+  background-color: #0b5ed7;
+}
+.font-weight-bold {
+  font-weight: 600;
+
+}
+
+.todo-item:hover{
+    margin-top: -1px;
+    border-top-width: 1px;
+    z-index: 2;
+    color: #fff;
+    background-color: #999;
+    border-color: #999;
+}
